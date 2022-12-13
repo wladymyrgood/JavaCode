@@ -1,11 +1,11 @@
 package service;
 
-import kurs1.Lesson1;
-import kurs1.Student1;
-import kurs1.Teacher1;
+import src.kurs1.Lesson1;
+import src.kurs1.Student1;
+import src.kurs1.Teacher1;
 import src.kurs2.Lesson2;
-import kurs2.Student2;
-import kurs2.Teacher2;
+import src.kurs2.Student2;
+import src.kurs2.Teacher2;
 
 public class Service {
     public static void main(String[] args) {
