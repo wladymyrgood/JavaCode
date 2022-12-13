@@ -1,4 +1,4 @@
-package kurs1;
+package src.kurs1;
 
 public class Teacher1 {
     public static int id = 1;

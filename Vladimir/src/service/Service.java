@@ -3,7 +3,7 @@ package service;
 import kurs1.Lesson1;
 import kurs1.Student1;
 import kurs1.Teacher1;
-import kurs2.Lesson2;
+import src.kurs2.Lesson2;
 import kurs2.Student2;
 import kurs2.Teacher2;
 
