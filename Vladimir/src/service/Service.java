@@ -1,4 +1,4 @@
-package service;
+package src.service;
 
 import src.kurs1.Lesson1;
 import src.kurs1.Student1;
