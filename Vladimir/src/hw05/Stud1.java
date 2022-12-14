@@ -1,4 +1,4 @@
 package src.hw05;
 
-public class Main {
+public class Stud1 {
 }
