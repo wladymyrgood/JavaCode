@@ -18,6 +18,7 @@ public class Main {
         Teacher2 Teacher2 = new Teacher2();
 
 
+
         System.out.println(Lesson1.id + Lesson2.id);
         System.out.println(Student1.id + Student2.id);
         System.out.println(Teacher1.id + Teacher2.id);
