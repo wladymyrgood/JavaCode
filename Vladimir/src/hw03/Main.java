@@ -6,6 +6,7 @@ import src.hw03.kurs1.Teacher1;
 import src.hw03.kurs2.Lesson2;
 import src.hw03.kurs2.Student2;
 import src.hw03.kurs2.Teacher2;
+import src.hw03.service.Test;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,6 +17,8 @@ public class Main {
         Student2 Student2 = new Student2();
         Teacher1 Teacher1 = new Teacher1();
         Teacher2 Teacher2 = new Teacher2();
+        Test test1 = new Test();
+        Test test2 = new Test();
 
 
 
