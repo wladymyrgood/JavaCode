@@ -11,6 +11,7 @@ public class Serv1 {
         Cat2 cat6 = new Cat2();
         Cat2 cat7 = new Cat2();
         Cat3 cat8 = new Cat3();
+        Cat3 cat9 = new Cat3();
 
 
 
