@@ -34,5 +34,6 @@ public class Service {
     void printLessID6(int ... ints ) {
         int lessid = ints[1];
         System.out.println(lessid);
+        //
     }
 }
