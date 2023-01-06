@@ -19,6 +19,11 @@ public class Main {
             System.out.println("8. Exit");
             genre = scanner.nextInt();
 
+            if (genre > 8) {
+                System.out.println("please input correct");
+                continue;
+            }
+
             switch (genre) {
                 case 1:
                     System.out.println("Student1");
