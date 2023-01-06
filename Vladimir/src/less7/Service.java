@@ -10,7 +10,7 @@ public class Service {
         System.out.println("please enter 3 for create Student");
         System.out.println("please enter 4 for create Lesson");
         Scanner scanner = new Scanner(System.in);
-
+//
         int i = scanner.nextInt();
         // if (course.courseID > 0);{}
         switch (i) {
