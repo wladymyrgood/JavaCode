@@ -13,7 +13,7 @@ public class Scan {
             Course course = new Course(1,5);
             System.out.println(course.courseID);
         }
-
+//
        scanner.close();
 
     }
