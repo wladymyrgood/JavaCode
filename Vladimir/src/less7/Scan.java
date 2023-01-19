@@ -14,7 +14,7 @@ public class Scan {
             System.out.println(course.courseID);
         }
 //
-       scanner.close();
+
 
     }
 }
