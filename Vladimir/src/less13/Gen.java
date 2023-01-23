@@ -23,13 +23,14 @@ public class Gen<E> {
     }
 
 
-
     public E[] getArrays() {
         return this.arrays;
     }
+
     public void setArrays() {
         this.arrays = arrays;
     }
+
     public void setArrays(E[] arrays) {
         this.arrays = arrays;
     }
