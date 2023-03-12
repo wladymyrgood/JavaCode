@@ -5,7 +5,7 @@ import src.less6.Lesson;
 import java.io.*;
 
 public class Lecture {
-
+//
     public static void main(String[] args) {
         seral("Vladimir/src/less24/LectureBackup.txt");
         deSer("Vladimir/src/less24/LectureBackup.txt");

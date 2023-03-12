@@ -5,7 +5,7 @@ import src.less17.ResourceType;
 import java.io.*;
 
 public class Material {
-
+//
     public static void main(String[] args) {
         seral("Vladimir/src/less24/MaterialBackup.txt");
         deSer("Vladimir/src/less24/MaterialBackup.txt");
