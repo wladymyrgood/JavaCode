@@ -1,6 +1,8 @@
 package src.less17;
 
-public class Materials {
+import java.io.Serializable;
+
+public class Materials implements Serializable {
 
     private int id;
     private String name;

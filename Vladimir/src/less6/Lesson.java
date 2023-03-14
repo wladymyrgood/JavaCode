@@ -1,5 +1,8 @@
 package src.less6;
-public class Lesson {
+
+import java.io.Serializable;
+
+public class Lesson implements Serializable {
     public int id;
     public String name;
     public Lesson(int id, String name) {
@@ -8,4 +11,11 @@ public class Lesson {
 
     }
 
+    @Override
+    public String toString() {
+        return "Lesson{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }
